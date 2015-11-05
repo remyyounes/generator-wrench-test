@@ -1,0 +1,39 @@
+{
+  "name": "generator-wrench-test",
+  "version": "0.1.0",
+  "description": "doc generator for wrench",
+  "files": [
+    "app",
+    "demo"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^0.5.0",
+    "glob": "^5.0.15",
+    "ramda": "^0.18.0",
+    "yeoman-generator": "^0.20.3",
+    "yosay": "^0.3.0"
+  },
+  "main": "app/index.js",
+  "devDependencies": {
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.6.0",
+    "eslint-config-airbnb": "^0.1.0",
+    "eslint-plugin-react": "^3.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remyyounes/generator-wrench-test.git"
+  },
+  "author": "remyyounes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remyyounes/generator-wrench-test/issues"
+  },
+  "homepage": "https://github.com/remyyounes/generator-wrench-test"
+}
